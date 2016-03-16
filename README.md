@@ -1,13 +1,9 @@
-[SETS](http://www.acap-usa.org/sets/sets_index.htm) 2015, sessions co-organized by [TTBA](http://ttbatw.org)
-=========
+# [SETS](http://www.acap-usa.org/sets/sets_index.htm) 2015, Sessions Co-organized by [TTBA](http://ttbatw.org)
 
-A responsive vertical timeline layout with icons and example media queries.
+Event Date: 6/6/2015 H2
 
-[article on Codrops](http://tympanus.net/codrops/?p=14941)
+The site is a modification of "*A responsive vertical timeline layout with icons and example media queries*". ([article on Codrops](http://tympanus.net/codrops/?p=14941) & [demo](http://tympanus.net/Blueprints/VerticalTimeline/))
 
-[demo](http://tympanus.net/Blueprints/VerticalTimeline/)
 
-The Blueprints are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration.
-Check out all of our Blueprints [here](http://tympanus.net/codrops/category/blueprints/)
 
-[LICENSING & TERMS OF USE](http://tympanus.net/codrops/licensing/)
+
