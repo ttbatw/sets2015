@@ -1,4 +1,4 @@
-Blueprint: Vertical Timeline
+[SETS](http://www.acap-usa.org/sets/sets_index.htm) 2015, sessions co-organized by [TTBA](http://ttbatw.org)
 =========
 
 A responsive vertical timeline layout with icons and example media queries.
